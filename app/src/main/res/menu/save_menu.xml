@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Save"
+          android:id="@+id/item1"
+          android:icon="@android:drawable/ic_menu_save"
+          android:showAsAction="always"
+          android:onClick="save"/>
+    <item android:title="Restart"
+        android:id="@+id/item2"
+        android:icon="@android:drawable/ic_menu_rotate"
+        android:showAsAction="always"
+        android:onClick="restart"/>
+</menu>

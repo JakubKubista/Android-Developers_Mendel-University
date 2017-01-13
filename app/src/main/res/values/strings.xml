@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VUI_NIM</string>
+    <string name="amount_beans" translatable="false">Number of remaining beans: </string>
+    <string name="log_state" translatable="false"></string>
+</resources>
