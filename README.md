@@ -1,25 +1,24 @@
 # Android game NIM
 
-Author: Jakub Kubista
-Course: XML
-Project: Semestral
-Name: NIM
-Development environment: Android Studio 2.0
-Date: Apr 2016 - Jun 2016
+- Author: Jakub Kubista
+- Course: XML
+- Language: Java
+- Name: NIM
+- Development environment: Android Studio 2.0
+- Date: Apr 2016 - Jun 2016
 
-Project created for courses XML in Java language for Mendel University. Play the game against the AI to win.
-
-Goal of the project:
+#### Goal of the project
 Create an android application, which includes work between activities, SQLite DB, APIs, AI.
 The core of artificial intelligence is complete AND/OR graph.
 
-Run:
+#### Run
 Copy APK into your android or run simulation in Android Studio 2.0 or other development tool.
 
-Goal of the game:
+#### Goal of the game
+Play the game against the AI to win.
 Force a computer to took the last bean.
 
-How to play:
+#### How to play
 1. Click on the button Settings
 2. Set number of beans and who will start.
 3. Click on the button New Game.
@@ -27,7 +26,7 @@ How to play:
 5. Save or restart the game by at the top right button.
 6. Check statistics at the title menu.
 
-Notes about implementation:
+#### Notes about implementation
 The core Activity of program can be find in path: app\src\main\java\com\mendelu\vui_nim\GameActivity.java
 
 Many lines of the code contains a lot of log messages for detail description what's happening in
